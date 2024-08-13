@@ -11,3 +11,4 @@ mysql:5.7
 elasticsearch:7.6.2
 rabbitmq:3-management
 minio/minio
+portainer/portainer
