@@ -14,7 +14,7 @@ redis:6.2.14
 mysql
 mysql:5.7
 
-elasticsearch
+elasticsearch:tag
 elasticsearch:7.6.2
 
 rabbitmq
