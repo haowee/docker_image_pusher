@@ -1,46 +1,44 @@
-#nginx
+nginx
 #nginx:1.27.0
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
+xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-#nacos/nacos-server
+nacos/nacos-server
 
-#redis
+redis
 #redis:6.2.14
 
-#mysql
+mysql
 #mysql:5.7
 
 #elasticsearch:8.15.0
 #elasticsearch:7.6.2
 
-#rabbitmq
+rabbitmq
 #rabbitmq:3-management
-#apache/rocketmq
+apache/rocketmq
 
-#minio/minio
+minio/minio
 
-#portainer/portainer
+portainer/portainer
 
-#node
+node
 #node:16.20.2
 #node:20.16.0
 
-#mongo
-#mongo-express
+mongo
+mongo-express
 
-#openjdk
+openjdk
 #openjdk:8
 #openjdk:17
 
-#hello-world
-#nextcloud
+hello-world
+nextcloud
 
-#alpine
+alpine
 #alpine:3.20.2
-
-registry.cn-hangzhou.aliyuncs.com/tangguangdi/max-shield:1.0.0
