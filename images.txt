@@ -42,3 +42,11 @@ nextcloud
 
 alpine
 #alpine:3.20.2
+
+gitea/gitea
+
+ubuntu
+ubuntu:20.04
+
+mariadb
+mariadb:10.4
