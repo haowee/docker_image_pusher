@@ -46,7 +46,11 @@ alpine
 gitea/gitea
 
 ubuntu
-ubuntu:20.04
+#ubuntu:20.04
 
 mariadb
-mariadb:10.4
+#mariadb:10.4
+
+easysoft/zentao:20.4
+easysoft/zentao:18.3
+
