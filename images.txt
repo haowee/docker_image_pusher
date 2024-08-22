@@ -8,6 +8,7 @@ xhofe/alist:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 
 nacos/nacos-server
+qingpan/rnacos
 
 redis
 #redis:6.2.14
