@@ -57,3 +57,14 @@ easysoft/zentao:18.3
 
 adminer
 
+jenkins/jenkins
+
+postgres
+
+golang
+
+gitlab/gitlab-ce
+
+excalidraw/excalidraw
+
+jgraph/drawio
