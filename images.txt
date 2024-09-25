@@ -52,8 +52,8 @@ ubuntu
 mariadb
 #mariadb:10.4
 
-easysoft/zentao:20.4
-easysoft/zentao:18.3
+#easysoft/zentao:20.4
+#easysoft/zentao:18.3
 
 adminer
 
@@ -63,8 +63,8 @@ postgres
 
 golang
 
-gitlab/gitlab-ce
+#gitlab/gitlab-ce
 
-excalidraw/excalidraw
+#excalidraw/excalidraw
 
-jgraph/drawio
+#jgraph/drawio
