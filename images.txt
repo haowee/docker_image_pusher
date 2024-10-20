@@ -25,7 +25,8 @@ apache/rocketmq
 
 minio/minio
 
-portainer/portainer
+#portainer/portainer
+portainer/portainer-ce
 
 node
 #node:16.20.2
