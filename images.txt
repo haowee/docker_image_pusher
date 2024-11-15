@@ -27,7 +27,6 @@ minio/minio
 
 #portainer/portainer
 portainer/portainer-ce
-6053537/portainer-ce
 
 node
 #node:16.20.2
