@@ -57,6 +57,7 @@ mariadb
 #easysoft/zentao:18.3
 
 adminer
+dbeaver/cloudbeaver
 
 jenkins/jenkins
 
