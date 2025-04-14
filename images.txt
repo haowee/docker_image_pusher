@@ -76,3 +76,5 @@ corentinth/it-tools
 wcjiang/reference
 
 openzipkin/zipkin
+
+canal/canal-server
