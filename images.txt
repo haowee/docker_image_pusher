@@ -81,4 +81,3 @@ canal/canal-server
 
 dokploy/dokploy
 
-maxkey/maxkey
