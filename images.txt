@@ -80,3 +80,5 @@ openzipkin/zipkin
 canal/canal-server
 
 dokploy/dokploy
+
+maxkey/maxkey
