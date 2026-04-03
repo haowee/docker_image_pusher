@@ -23,7 +23,8 @@ rabbitmq
 #rabbitmq:3-management
 apache/rocketmq
 
-minio/minio
+#minio/minio
+rustfs/rustfs:latest
 
 #portainer/portainer
 portainer/portainer-ce
