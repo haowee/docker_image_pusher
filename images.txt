@@ -36,7 +36,7 @@ node
 mongo
 mongo-express
 
-openjdk
+#openjdk
 #openjdk:8
 #openjdk:17
 
@@ -48,7 +48,7 @@ alpine
 
 gitea/gitea
 
-ubuntu
+#ubuntu
 #ubuntu:20.04
 
 mariadb
