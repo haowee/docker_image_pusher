@@ -82,3 +82,4 @@ canal/canal-server
 
 dokploy/dokploy
 
+joeanamier/xhs-downloader
