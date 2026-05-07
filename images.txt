@@ -83,3 +83,5 @@ canal/canal-server
 dokploy/dokploy
 
 joeanamier/xhs-downloader
+
+ghcr.io/pdfcrafttool/pdfcraft
